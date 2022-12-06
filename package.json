@@ -9,6 +9,9 @@
   "scripts": {
     "build": "webpack --mode production"
   },
+  "repository": {
+    "directory": "https://github.com/naoufal-dev/next-theme"
+  },
   "author": "",
   "license": "ISC",
   "peerDependencies": {
